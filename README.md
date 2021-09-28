@@ -7,4 +7,4 @@
 - 3.找出数组中第k大和第m大的数字相加之和。[题解](findTopSum.js)
 - 4.获取嵌套数组深度。[题解](getArrayDeep.js)
 - 5.按条件合并相邻项。[题解](addJoin.js)
-- 6.返回菜单结构的指定层指定数据。[题解](findPageUrl.js)
+- 6.返回菜单树结构的指定层指定数据。[题解](findPageUrl.js)
