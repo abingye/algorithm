@@ -8,3 +8,4 @@
 - 4.获取嵌套数组深度。[题解](getArrayDeep.js)
 - 5.按条件合并相邻项。[题解](addJoin.js)
 - 6.返回菜单树结构的指定层指定数据。[题解](findPageUrl.js)
+- 7.函数柯里化的高级实现。[题解](curry.js)
