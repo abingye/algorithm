@@ -10,3 +10,4 @@
 - 6.返回菜单树结构的指定层指定数据。[题解](findPageUrl.js)
 - 7.函数柯里化的高级实现。[题解](curry.js)
 - 8.深拷贝实现。[题解](deepClone.js)
+- 8.最长回文子串。[题解](longestPalindrome.js)
