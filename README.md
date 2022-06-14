@@ -13,3 +13,4 @@
 - 9.最长回文子串。[题解](longestPalindrome.js)
 - 10.无重复字符最长子串。[题解](longestSubstring.js)
 - 11.两个链表结构的数相加。[题解](addTwoNumbers.js)
+- 12.数组扁平化实现。[题解](flat.js)
