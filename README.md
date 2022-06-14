@@ -14,3 +14,4 @@
 - 10.无重复字符最长子串。[题解](longestSubstring.js)
 - 11.两个链表结构的数相加。[题解](addTwoNumbers.js)
 - 12.数组扁平化实现。[题解](flat.js)
+- 13.斐波那契数列。[题解](fib.js)
