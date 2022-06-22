@@ -19,3 +19,4 @@
 - 3.两个链表结构的数相加。[题解](addTwoNumbers.js)
 - 4.深拷贝实现。[题解](deepClone.js)
 - 5.寻找k-diff对数。[题解](findPairs.js)
+- 6.整数反转。[题解](findPairs.js)
