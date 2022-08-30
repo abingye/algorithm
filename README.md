@@ -12,6 +12,7 @@
 - 7.函数柯里化的高级实现。[题解](curry.js)
 - 8.数组扁平化实现。[题解](flat.js)
 - 9.斐波那契数列。[题解](fib.js)
+- 10.手写EventEmitter。[题解](emitter.js)
 
 ### 中等难度
 - 1.最长回文子串。[题解](longestPalindrome.js)
